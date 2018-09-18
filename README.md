@@ -4,23 +4,23 @@ A project that records where Dr. Fish chooses to eat everyday.
 - [ ] Xi'an
 - [ ] Good Luck
 
--[ ] Hui Mian
+- [ ] Hui Mian
 
 
--[ ] KFC
+- [ ] KFC
 
 
--[ ] Kungfu
+- [ ] Kungfu
 
 
--[ ] Hualai Tu
+- [ ] Hualai Tu
 
 
--[ ] Dongbei cuisine
+- [ ] Dongbei cuisine
 
 
--[ ] Kong Island
+- [ ] Kong Island
 
 
--[ ] Dumplings
+- [ ] Dumplings
 
