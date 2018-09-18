@@ -10,16 +10,16 @@ A project that records where Dr. Fish chooses to eat everyday.
 - [ ] KFC
 
 
-- [ ] Kungfu
+- [ ] Real Kungfu
 
 
 - [ ] Hualai Tu
 
 
-- [ ] Dongbei cuisine
+- [ ] North-East cuisine
 
 
-- [ ] Kong Island
+- [ ] Empty Island
 
 
 - [ ] Dumplings
