@@ -1,7 +1,7 @@
 # WhereToeat
 A project that records where Dr. Fish and his sons choose to eat everyday. 
 
-## Wuhan $\bullet$ HUST
+## Wuhan——HUST
 
 - [ ] Xi'an
 - [ ] Good Luck
@@ -26,7 +26,7 @@ A project that records where Dr. Fish and his sons choose to eat everyday.
 
 - [ ] Dumplings
 
-## Shanghai $\bullet$ SJTU
+## Shanghai——SJTU
 
 - [ ] The First Canteen
 
